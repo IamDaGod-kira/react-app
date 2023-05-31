@@ -26,7 +26,7 @@ function App() {
         <h6 className="bg-gradient-to-tl from-teal-900 to-slate-600 capitalize italic p-5">
           Your contribution is a necessity!
         </h6>
-        <p className="capitalize italic text-xl text-center p-4 text-slate-900 bg-gradient-to-br from-yellow-600 to-orange-600">
+        <p className="capitalize italic text-xl text-center p-2 text-slate-900 bg-gradient-to-br from-yellow-400 to-red-700">
           Et veniam dolor mollit ipsum nisi. Cillum ad ut elit consectetur
           cillum commodo reprehenderit sit non. Qui dolor amet ut ex incididunt
           aute eu. Deserunt adipisicing pariatur laboris non labore. Ipsum
