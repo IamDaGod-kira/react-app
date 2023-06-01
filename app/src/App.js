@@ -26,7 +26,8 @@ function App() {
         <h6 className="bg-gradient-to-tl from-teal-900 to-slate-600 capitalize italic p-5">
           Your contribution is a necessity!
         </h6>
-        <p className="prose capitalize italic text-sm text-center text-slate-900 bg-gradient-to-br from-yellow-400 to-red-700">
+        <p className="prose prose-h3:font-sans italic text-sm text-center text-slate-900 bg-gradient-to-br from-yellow-400 to-red-700">
+          <h3 className="text-gray-700 font-black">What is ReactJS ??</h3>
           React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3][4] for building user interfaces based on components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[5][6][7]<br />
           React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality.[8][9]<br />
           Project status can be tracked via the core team discussion forum.[37] However, major changes to React go through the Future of React repository issues and pull requests.[38][39] This enables the React community to provide feedback on new potential features, experimental APIs and JavaScript syntax improvements.<br />
