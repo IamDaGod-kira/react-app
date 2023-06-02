@@ -25,7 +25,7 @@ function App() {
         </p>
         <h6 className="bg-gradient-to-tl from-teal-900 to-slate-600 capitalize italic p-5">
           Your contribution is a necessity!
-        </h6>
+        </h6><br/>
         <p className="prose prose-h3:font-sans italic text-sm text-center text-slate-900 bg-gradient-to-br from-yellow-400 to-red-700">
           <h3 className="text-gray-700 font-black">What is ReactJS ??</h3>
           React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3][4] for building user interfaces based on components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[5][6][7]<br />
